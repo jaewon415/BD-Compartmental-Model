@@ -1,10 +1,10 @@
-# BD-Compartmental-Model
+# Compartmental Model
 
-<font size = 5> This project is still in progress and not ready for the real-world application. </font>
+Please note that this project is still in progress and not ready for real-world implementation.
 
 ## Acknowledgements
-Jinwon Park
-Kyusu Ahn
-Taehyeon Hwang
-Hyunjun Choi
+Jinwon Park <br>
+Kyusu Ahn <br>
+Taehyeon Hwang <br>
+Hyunjun Choi <br>
 Jaewon Chang
