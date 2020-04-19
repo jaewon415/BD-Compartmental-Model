@@ -1,4 +1,4 @@
-# Compartmental Model
+## Announcement
 
 Please note that this project is still in progress and not ready for real-world implementation.
 
